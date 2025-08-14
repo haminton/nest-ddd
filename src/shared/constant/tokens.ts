@@ -1,0 +1,5 @@
+export const TOKENS = {
+  USER_REPOSITORY: Symbol('USER_REPOSITORY'),
+  PASSWORD_HASHER: Symbol('PASSWORD_HASHER'),
+  EVENT_BUS: Symbol('EVENT_BUS'),
+};
